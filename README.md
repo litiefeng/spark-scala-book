@@ -1,2 +1,4 @@
 # spark-scala-book
-first
+
+scala basic  and spark demo
+
